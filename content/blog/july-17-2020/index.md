@@ -1,6 +1,6 @@
 ---
-title: July 17, 2020
+title: "Hour to Action: Data Transparency"
 date: 2020-10-08T21:23:49.481Z
-description: Our first Action Hour and the data transparency petition.
+description: Our data transparency petition to Northeastern admin.
 ---
-Coming soon.
+Info coming soon.
