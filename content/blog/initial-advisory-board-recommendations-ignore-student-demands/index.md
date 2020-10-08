@@ -26,10 +26,9 @@ b. NUPD enforces the student code of conduct and intimidates graduate students w
 c. Members of NUPD have donated to the Trump campaign since June 2020 and have been seen in online photos with “Blue Lives Matter” paraphernalia. To equate a choice in profession with Black identity is egregious. To financially support a presidential candidate who refuses to condemn white supremacist organizations is inexcusable. Public relations stunts such as handing out hot chocolate and tea and giving tours of the department building does nothing to prevent them from racially profiling and traumatizing members of our community.
 
 3. **Immediate removal of NUPD from the operation of safety escort services, self-defense and CPR, property registration, community programs, and the lost and found.** None of those programs require a lethal weapon. Instead, having the police manage these programs only serves to increase their budget and presence on campus and in surrounding communities.
-
 4. **Creation of a Restorative Justice Center and sustainable alternatives to private policing.**
 
-a. The Office of Student Conduct & Conflict Resolution (OSCCR), a punitive arm of NUPD, should be transformed into a Restorative Justice Center capable of providing healing, resolution, and accountability. As the former director of OSCCR, briana Sevigny, has recently left the position, the time is ripe to restructure and reimagine what accountability looks like in our community. NUPD should not be involved in mental health checks, non-emergency medical transports, or incidents involving drug and substance abuse. Instead, the new Restorative Justice Center, University Health and Counseling Services (UHCS), and the Office of Prevention and Education should receive additional funds to take over management of these incidents from NUPD.
+a. The Office of Student Conduct & Conflict Resolution (OSCCR), a punitive arm of NUPD, should be transformed into a Restorative Justice Center capable of providing healing, resolution, and accountability. As the former director of OSCCR, Briana Sevigny, has recently left the position, the time is ripe to restructure and reimagine what accountability looks like in our community. NUPD should not be involved in mental health checks, non-emergency medical transports, or incidents involving drug and substance abuse. Instead, the new Restorative Justice Center, University Health and Counseling Services (UHCS), and the Office of Prevention and Education should receive additional funds to take over management of these incidents from NUPD.
 
 b. NUPD should not be a required tenant to implementing programming put on at the university. Offices on campus should not have to spend their own budget on paying the university’s own private police force to be present at events.
 
@@ -39,12 +38,12 @@ a. NU has a white supremacy problem. NU leadership is already aware of the poor 
 
 b. NU must invest financial and social resources in the departments developing culturally competent students. Currently, the Cultural Life Centers have over five positions and counting open and unfilled. Even in the Cultural Life centers, where employees are hired to support BIPOC and LGBT students, NU is unable to retain staff.
 
-We demand a response from President Aoun on **each** bullet point of this letter. His continued decision to invest in a racist system armed with lethal weapons harms each and every one of us on this campus. From the demands of Black Students in 1968 to today, NU has continually and systemically failed to address its participation in upholding and reinforcing white supremacy.
+We demand a response from President Aoun on **each** point of this letter. His continued decision to invest in a racist system armed with lethal weapons harms each and every one of us on this campus. From the demands of Black Students in 1968 to today, NU has continually and systemically failed to address its participation in upholding and reinforcing white supremacy.
 
 Addressing President Aoun and the rest of the leadership team directly: You have the power to be a leading force of change on a global scale. NU has the ability to respond swiftly and decisively no matter the cost, as has been demonstrated by NU’s response to the COVID-19 crisis. Racism is also an urgent crisis requiring an equally swift response. If ending contracts with NUPD would cost a significant amount of money, it is time you ask if NU should continue to invest in white supremacist practices. Take bold action and be courageous by investing in your students and community.
 
 Signed,
 
-#BlackatNU
+\#BlackatNU
 
-#DefundNUPD
+\#DefundNUPD
