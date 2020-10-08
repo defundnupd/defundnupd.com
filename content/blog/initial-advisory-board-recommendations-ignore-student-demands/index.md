@@ -1,7 +1,7 @@
 ---
 title: Initial Advisory Board recommendations ignore student demands
 date: 2020-10-08T21:27:07.960Z
-description: "A statement from #BlackatNU and #DefundNUPD."
+description: "A statement from #BlackatNU and #DefundNUPD"
 ---
 To the Northeastern University community,
 
