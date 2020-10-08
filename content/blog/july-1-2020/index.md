@@ -1,6 +1,6 @@
 ---
-title: July 1, 2020
+title: Response to the announcement of the NUPD Advisory Board
 date: 2020-10-08T21:21:05.536Z
-description: Response to announcement of NUPD Advisory Board.
+description: Our first digital action.
 ---
-Coming soon.
+Info coming soon.
