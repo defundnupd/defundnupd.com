@@ -7,7 +7,7 @@ On June 17, #BlackAtNU released [demands](https://sites.google.com/view/blackatn
 
 In response, Northeastern community members sent [this email](https://docs.google.com/document/d/1B6nZ6IYJAx33Ii-DczfHvU2O6ujvvEyKiKJjPkr_Nm0/edit?usp=sharing) over 120 times to Chancellor Ken Henderson, VP Madeleine Estabrook, Dean Robert Jose, Dean James Hackney, and other administrators. The emails included [this fact sheet](https://drive.google.com/file/d/1gURGaR3ESA5gV_kaSZb7aw80rrFQMcYQ/view) on why we must defund and demilitarize NUPD. We also asked students to tweet at President Aoun and sign onto the #BlackAtNU platform.
 
-Below are responses to our emails from various admin.
+Below are some responses to our emails from admin.
 
 **VP Madeleine Estabrook:** "Thank you for sharing your concerns about NUPD. I appreciate your taking the time to weigh in on these important issues.
 
