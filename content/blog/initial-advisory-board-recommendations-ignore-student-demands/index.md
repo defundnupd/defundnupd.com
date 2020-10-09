@@ -1,5 +1,5 @@
 ---
-title: Initial Board recommendations ignore student demands and entrench policing
+title: Initial Advisory Board recommendations ignore demands and entrench policing
 date: 2020-10-08T21:27:07.960Z
 description: "A statement from #DefundNUPD on Jack McDevitt's Oct. 5 update."
 ---
