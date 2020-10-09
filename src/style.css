@@ -242,7 +242,11 @@ a {
 
 a:hover,
 a:focus {
-  /* text-decoration: underline #de192a; */
+  text-decoration: none;
+}
+
+h2 > a:hover,
+h2 > a:focus {
   text-shadow: -3px 0px #de192a;
 }
 
