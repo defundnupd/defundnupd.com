@@ -300,7 +300,8 @@ h2 > a:focus {
 
 .bio {
   display: flex;
-  margin-bottom: var(--spacing-16);
+  flex-direction: column;
+  margin-bottom: var(--spacing-12);
 }
 
 .bio p {
@@ -329,6 +330,12 @@ h2 > a:focus {
 
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
+}
+
+.social {
+  display: flex;
+  justify-content: space-between;
+  max-width: 110px;
 }
 
 /* Media queries */

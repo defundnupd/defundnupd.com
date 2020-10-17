@@ -8,6 +8,7 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
+import { SocialIcon } from "react-social-icons"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -64,6 +65,19 @@ const Bio = () => {
           taking anti-racist action.
         </p>
       )}
+      <br></br>
+      <div className="social">
+          <SocialIcon
+            network="email"
+            url="mailto:defundnupd@gmail.com"
+            bgColor="black"
+          />
+          <SocialIcon
+            network="instagram"
+            url="http://instagram.com/defundnupd"
+            bgColor="black"
+          />
+      </div>
     </div>
   )
 }
