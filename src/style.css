@@ -259,7 +259,7 @@ h2 > a:focus {
 }
 
 .global-wrapper[data-is-root-path="true"] .bio {
-  margin-bottom: var(--spacing-20);
+  margin-bottom: var(--spacing-12);
 }
 
 .global-header {
@@ -305,7 +305,7 @@ h2 > a:focus {
 }
 
 .bio p {
-  margin-bottom: var(--spacing-0);
+  margin-bottom: var(--spacing-2);
 }
 
 .bio-avatar {
