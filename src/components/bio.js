@@ -71,11 +71,13 @@ const Bio = () => {
             network="email"
             url="mailto:defundnupd@gmail.com"
             bgColor="black"
+            target="_blank"
           />
           <SocialIcon
             network="instagram"
             url="http://instagram.com/defundnupd"
             bgColor="black"
+            target="_blank"
           />
       </div>
     </div>
