@@ -1,7 +1,7 @@
 ---
-title: Response to NUPD violence against a minor
+title: "Not in our name: NUPD violently arrests youth"
 date: 2020-11-16T21:49:06.843Z
-description: Plus actions that community members can take.
+description: "Our statement with #BlackatNU and #BlackVoicesMatter, plus actions to take."
 ---
 Members of the Northeastern and Boston communities,
 
