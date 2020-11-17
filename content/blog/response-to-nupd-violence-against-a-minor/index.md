@@ -1,7 +1,7 @@
 ---
 title: "Not in our name: NUPD violently arrests youth"
 date: 2020-11-16T21:49:06.843Z
-description: Our statement, plus actions to take.
+description: Our statement with POC student organizers, plus actions to take.
 ---
 Members of the Northeastern and Boston communities,
 
