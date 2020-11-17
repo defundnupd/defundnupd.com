@@ -13,9 +13,9 @@ Northeastern administration has said that they have seen demands from [\#Blackat
 
 Signed, 
 
-Black at NU
-Black Voices Matter NEU
-Defund NUPD
+\#BlackatNU
+\#BlackVoicesMatterNEU
+\#DefundNUPD
 Northeastern Students of Color Caucus
 
 -
