@@ -13,12 +13,12 @@ Northeastern administration has said that they have seen demands from [\#Blackat
 
 Signed, 
 
-\#BlackatNU\
-#BlackVoicesMatterNEU\
-#DefundNUPD\
+#BlackatNU
+#BlackVoicesMatterNEU
+#DefundNUPD
 Northeastern Students of Color Caucus
 
-\---
+---
 
 Day of Action - Nov. 17, 2020
 
