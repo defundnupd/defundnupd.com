@@ -18,7 +18,7 @@ Signed, 
 #DefundNUPD
 Northeastern Students of Color Caucus
 
----
+-
 
 Day of Action - Nov. 17, 2020
 
