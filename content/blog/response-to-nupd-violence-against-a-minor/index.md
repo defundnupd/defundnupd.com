@@ -18,9 +18,9 @@ Signed, 
 \#DefundNUPD
 Northeastern Students of Color Caucus
 
--
+--
 
-Day of Action - Nov. 17, 2020
+**Day of Action - Nov. 17, 2020**
 
 1. Email members of Northeastern administration (email template and list of who to contact [here](https://docs.google.com/document/d/1Zcr72QduhhjjemK9kqohZJ4zZlhDgF_qH5dXoO4MTNY/edit?usp=sharing)).
 2. Use this Zoom background in your Tuesday classes and club meetings to get others to participate.
