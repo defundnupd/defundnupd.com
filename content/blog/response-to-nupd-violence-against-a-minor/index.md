@@ -20,7 +20,7 @@ Northeastern Students of Color Caucus
 
 \--
 
-#Day of Action - Nov. 17, 2020
+#Day of Action - Nov. 18, 2020
 
 1. Email members of Northeastern administration (email template and list of who to contact [here](https://docs.google.com/document/d/1Zcr72QduhhjjemK9kqohZJ4zZlhDgF_qH5dXoO4MTNY/edit?usp=sharing)).
 2. Use one of [these](https://drive.google.com/file/d/1DrnU_CyyNfm5lOL1IUusOZILbRBJiWRX/view?usp=sharing) [two](https://drive.google.com/file/d/1kVf7n8DPqvIloanNhMJL0Pp_GxbMit9d/view?usp=sharing) Zoom backgrounds in your Tuesday classes and club meetings to get others to participate.
