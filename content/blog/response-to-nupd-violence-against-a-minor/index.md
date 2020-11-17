@@ -14,15 +14,15 @@ Northeastern administration has said that they have seen demands from [\#Blackat
 Signed, 
 
 \#BlackatNU<br/>
-\#BlackVoicesMatterNEU<br/>
-\#DefundNUPD<br/>
+#BlackVoicesMatterNEU<br/>
+#DefundNUPD<br/>
 Northeastern Students of Color Caucus
 
---
+\--
 
 **Day of Action - Nov. 17, 2020**
 
 1. Email members of Northeastern administration (email template and list of who to contact [here](https://docs.google.com/document/d/1Zcr72QduhhjjemK9kqohZJ4zZlhDgF_qH5dXoO4MTNY/edit?usp=sharing)).
-2. Use this Zoom background in your Tuesday classes and club meetings to get others to participate.
+2. Use one of [these](https://drive.google.com/file/d/13BgH1UTTK77Q1cnph0m2iSWJ5xootvXb/view?usp=sharing) [two](https://drive.google.com/file/d/1_nv8p0Do47d7rarI2dOprLYw7Oass5od/view?usp=sharing) Zoom backgrounds in your Tuesday classes and club meetings to get others to participate.
 3. File a complaint with NUPD using this [guide](https://docs.google.com/document/d/11ZwW8DYFAhX_oSt42QT20N-Pnid-cOJkLMY4rAZNLgU/edit?usp=sharing).
 4. Share our statement and these actions to get more people involved.
