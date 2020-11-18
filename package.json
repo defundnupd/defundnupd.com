@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "defundnupd",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Students at Northeastern University committed to defunding and abolishing the Northeastern University Police Department, reinvesting those funds to support our community, and taking anti-racist action.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "DefundNUPD Team",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/defundnupd/defundnupd.com/issues"
   },
   "dependencies": {
     "gatsby": "^2.24.72",

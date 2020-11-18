@@ -5,8 +5,8 @@ module.exports = {
       name: `Defund NUPD Team`,
       summary: `Students at Northeastern University. We fully support and endorse the demands of #BlackAtNU and @bvmneu.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Students at Northeastern University committed to defunding and abolishing the Northeastern University Police Department, reinvesting those funds to support our community, and taking anti-racist action.`,
+    siteUrl: `https://www.defundnupd.com/`,
     social: {
       instagram: `defundnupd`,
     },
