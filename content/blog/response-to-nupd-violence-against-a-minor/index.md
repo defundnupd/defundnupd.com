@@ -1,8 +1,8 @@
 ---
 title: "Not in our name: NUPD violently arrests youth"
 date: 2020-11-16T21:49:06.843Z
-description: "Our statement with #BlackatNU, #BlackVoicesMatterNEU, and the
-  Students of Color Caucus, plus actions to take."
+description: "Our statement with #BlackatNU and the Students of Color Caucus,
+  plus actions to take."
 ---
 Members of the Northeastern and Boston communities,
 
@@ -15,7 +15,6 @@ Northeastern administration has said that they have seen demands from [\#Blackat
 Signed, 
 
 \#BlackatNU<br/>
-\#BlackVoicesMatterNEU<br/>
 \#DefundNUPD<br/>
 Northeastern Students of Color Caucus
 
